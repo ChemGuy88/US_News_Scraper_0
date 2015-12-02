@@ -1,0 +1,27 @@
+Error for University of California-Los Angeles , Los Angeles, CA at 2015-11-27 18:09:47
+'NoneType' object has no attribute 'string'
+
+Error for University of Michigan-Ann Arbor , Ann Arbor, MI at 2015-11-27 18:09:47
+'NoneType' object has no attribute 'string'
+
+Error for University of Massachusetts-Amherst , Amherst, MA at 2015-11-27 18:09:47
+'NoneType' object has no attribute 'string'
+
+Error for Rutgers, The State University of New Jersey-New Brunswick , Piscataway, NJ at 2015-11-27 18:09:47
+'charmap' codec can't encode character '\u2013' in position 7: character maps to <undefined>
+
+Error for Texas A&M University-College Station , College Station, TX at 2015-11-27 18:09:47
+'NoneType' object has no attribute 'string'
+
+Error for Arizona State University , Tempe, AZ at 2015-11-27 18:09:47
+'NoneType' object has no attribute 'string'
+
+Error for Indiana University-Bloomington , Bloomington, IN at 2015-11-27 18:09:47
+'NoneType' object has no attribute 'string'
+
+Error for Tufts University , Medford, MA at 2015-11-27 18:09:47
+'charmap' codec can't encode character '\u200e' in position 33: character maps to <undefined>
+
+Error for Brandeis University , Waltham, MA at 2015-11-27 18:09:47
+'NoneType' object has no attribute 'string'
+

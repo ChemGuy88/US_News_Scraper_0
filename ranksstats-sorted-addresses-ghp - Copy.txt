@@ -1,0 +1,79 @@
+1;Stanford University ;Stanford, CA;4.9;450 Serra Mall, Stanford, CA 94305
+2;University of California-Berkeley ;Berkeley, CA;4.7;Berkeley, CA
+3;Harvard University ;Boston, MA;4.6;Cambridge, MA 02138
+3;University of Washington ;Seattle, WA;4.6;Seattle, WA
+5;Johns Hopkins University ;Baltimore, MD;4.4;Baltimore, MD 21218
+5;University of Chicago ;Chicago, IL;4.4;5801 S Ellis Ave, Chicago, IL 60637
+7;Harvard University ;Cambridge, MA;4.3;Cambridge, MA 02138
+7;University of Washington ;Seattle, WA;4.3;Seattle, WA
+9;Carnegie Mellon University ;Pittsburgh, PA;4.2;5000 Forbes Ave, Pittsburgh, PA 15213
+10;Duke University ;Durham, NC;4.1;Durham, NC 27708
+10;University of Pennsylvania ;Philadelphia, PA;4.1;Philadelphia, PA 19104
+12;University of Michigan-Ann Arbor ;Ann Arbor, MI;4.0;500 S State St, Ann Arbor, MI 48109
+12;University of North Carolina-Chapel Hill ;Chapel Hill, NC;4.0;Chapel Hill, NC
+12;University of Wisconsin-Madison ;Madison, WI;4.0;Madison, WI 53706
+15;North Carolina State University ;Raleigh, NC;3.9;Raleigh, NC 27695
+15;Texas A&M University-College Station ;College Station, TX;3.9;Texas A&M University-College Station , College Station, TX
+15;University of California-Berkeley ;Berkeley, CA;3.9;Berkeley, CA
+15;University of Michigan-Ann Arbor ;Ann Arbor, MI;3.9;500 S State St, Ann Arbor, MI 48109
+19;Iowa State University ;Ames, IA;3.8;Ames, IA 50011
+20;Columbia University ;New York, NY;3.7;116th St & Broadway, New York, NY 10027
+20;Pennsylvania State University ;University Park, PA;3.7;University Park, State College, PA 16801
+20;University of Minnesota-Twin Cis ;Minneapolis, MN;3.7;Minneapolis, MN 55455
+20;University of North Carolina-Chapel Hill ;Chapel Hill, NC;3.7;Chapel Hill, NC
+24;Cornell University ;Ithaca, NY;3.6;Ithaca, NY 14850
+24;Purdue University-West Lafayette ;West Lafayette, IN;3.6;610 Purdue Mall, West Lafayette, IN 47907
+24;University of Minnesota-Twin Cis ;Minneapolis, MN;3.6;Minneapolis, MN 55455
+27;Ohio State University ;Columbus, OH;3.5;Columbus, OH 43210
+27;University of California-Davis ;Davis, CA;3.5;1 Shields Ave, Davis, CA 95616
+27;University of Pennsylvania (Perelman) ;Philadelphia, PA;3.5;University of Pennsylvania (Perelman) , Philadelphia, PA
+30;Columbia University ;New York, NY;3.4;116th St & Broadway, New York, NY 10027
+30;University of California-Los Angeles ;Los Angeles, CA;3.4;Los Angeles, CA 90095
+30;University of California-Los Angeles ;Los Angeles, CA;3.4;Los Angeles, CA 90095
+30;University of Florida ;Gainesville, FL;3.4;Gainesville, FL 32611
+34;University of Illinois-Urbana-Champaign ;Champaign, IL;3.3;Champaign, IL
+34;University of Iowa ;Iowa City, IA;3.3;University of Iowa , Iowa City, IA
+34;Yale University ;New Haven, CT;3.3;New Haven, CT 06520
+34;Yale University (School of Public Health) ;New Haven, CT;3.3;Yale University (School of Public Health) , New Haven, CT
+38;Emory University ;Atlanta, GA;3.2;201 Dowman Dr, Atlanta, GA 30322
+39;Florida State University ;Tallahassee, FL;3.1;600 W College Ave, Tallahassee, FL 32306
+39;Rice University ;Houston, TX;3.1;6100 Main St, Houston, TX 77005
+39;Rutgers, The State University of New Jersey-New Brunswick ;Piscataway, NJ;3.1;Rutgers, The State University of New Jersey-New Brunswick , Piscataway, NJ
+42;Brown University (School of Public Health) ;Providence, RI;3.0;Brown University (School of Public Health) , Providence, RI
+42;Colorado State University ;Fort Collins, CO;3.0;Fort Collins, CO 80523
+42;University of Connecticut ;Storrs, CT;3.0;Storrs, CT 06269
+42;University of Iowa ;Iowa City, IA;3.0;University of Iowa , Iowa City, IA
+42;University of Rochester ;Rochester, NY;3.0;Rochester, NY
+47;Michigan State University ;East Lansing, MI;2.9;220 Trowbridge Rd, East Lansing, MI 48824
+47;University of Pittsburgh ;Pittsburgh, PA;2.9;4200 Fifth Ave, Pittsburgh, PA 15260
+49;Boston University ;Boston, MA;2.8;Boston, MA 02215
+49;New York University (Stern) ;New York, NY;2.8;44 West 4th Street, New York, NY 10012
+49;Northwestern University ;Evanston, IL;2.8;633 Clark St, Evanston, IL 60208
+49;University of Pittsburgh ;Pittsburgh, PA;2.8;4200 Fifth Ave, Pittsburgh, PA 15260
+53;George Washington University ;Washington, DC;2.7;2121 I St NW, Washington, DC 20052
+53;Medical College of Wisconsin ;Milwaukee, WI;2.7;8701 W Watertown Plank Rd, Milwaukee, WI 53226
+53;University of Georgia ;Athens, GA;2.7;Athens, GA 30602
+53;University of Illinois-Chicago (School of Public Health) ;Chicago, IL;2.7;1603 W Taylor St, Chicago, IL 60612
+53;University of Missouri ;Columbia, MO;2.7;Columbia, MO 65211
+53;University of Texas Health Science Center-Houston ;Houston, TX;2.7;7000 Fannin St, Houston, TX 77030
+53;Virginia Tech ;Blacksburg, VA;2.7;Blacksburg, VA 24061
+60;Case Western Reserve University (School of Public Health) ;Cleveland, OH;2.6;Case Western Reserve University (School of Public Health) , Cleveland, OH
+60;Southern Methodist University ;Dallas, TX;2.6;Dallas, TX
+62;University of California-Santa Barbara ;Santa Barbara, CA;2.5;Santa Barbara, CA 93106
+63;Arizona State University ;Tempe, AZ;2.4;Arizona State University , Tempe, AZ
+63;Oregon State University ;Corvallis, OR;2.4;Corvallis, OR 97331
+63;University of South Carolina ;Columbia, SC;2.4;Columbia, SC 29208
+63;University of Virginia ;Charlottesville, VA;2.4;Charlottesville, VA
+67;Medical University of South Carolina ;Charleston, SC;2.3;Medical University of South Carolina , Charleston, SC
+67;Temple University (Fox) ;Philadelphia, PA;2.3;Temple University (Fox) , Philadelphia, PA
+67;University of California-Riverside ;Riverside, CA;2.3;900 University Ave, Riverside, CA 92521
+70;Kansas State University ;Manhattan, KS;2.2;Manhattan, KS 66506
+70;University at Albany-SUNY (School of Public Health) ;Rensselaer, NY;2.2;University at Albany-SUNY (School of Public Health) , Rensselaer, NY
+70;University at Buffalo-SUNY ;Buffalo, NY;2.2;Buffalo, NY
+70;University of Alabama-Birmingham ;Birmingham, AL;2.2;1720 2nd Ave S, Birmingham, AL 35233
+70;University of Colorado-Denver ;Denver, CO;2.2;1201 Larimer St, Denver, CO 80204
+75;Baylor University ;Waco, TX;2.1;1311 S 5th St, Waco, TX 76798
+75;Case Western Reserve University ;Cleveland, OH;2.1;10900 Euclid Ave, Cleveland, OH 44106
+75;University of Kentucky ;Lexington, KY;2.1;Lexington, KY 40506
+78;University of South Carolina (Arnold School of Public Health) ;Columbia, SC;2.0;University of South Carolina (Arnold School of Public Health) , Columbia, SC
+78;Virginia Commonwealth University ;Richmond, VA;2.0;821 W Franklin St, Richmond, VA 23284

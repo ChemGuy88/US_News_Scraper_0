@@ -1,0 +1,39 @@
+Error for Texas A&M University-College Station , College Station, TX at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for University of Pennsylvania (Perelman) , Philadelphia, PA at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for University of Iowa , Iowa City, IA at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for Yale University (School of Public Health) , New Haven, CT at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for Rutgers, The State University of New Jersey-New Brunswick , Piscataway, NJ at 2015-11-19 12:02:32
+'charmap' codec can't encode character '\u2013' in position 7: character maps to <undefined>
+
+Error for Brown University (School of Public Health) , Providence, RI at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for University of Iowa , Iowa City, IA at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for Case Western Reserve University (School of Public Health) , Cleveland, OH at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for Arizona State University , Tempe, AZ at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for Medical University of South Carolina , Charleston, SC at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for Temple University (Fox) , Philadelphia, PA at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for University at Albany-SUNY (School of Public Health) , Rensselaer, NY at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+
+Error for University of South Carolina (Arnold School of Public Health) , Columbia, SC at 2015-11-19 12:02:32
+'NoneType' object has no attribute 'string'
+

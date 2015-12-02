@@ -1,0 +1,79 @@
+1;Stanford University ;Stanford, CA;4.9
+2;University of California-Berkeley ;Berkeley, CA;4.7
+3;Harvard University ;Boston, MA;4.6
+3;University of Washington ;Seattle, WA;4.6
+5;Johns Hopkins University ;Baltimore, MD;4.4
+5;University of Chicago ;Chicago, IL;4.4
+7;Harvard University ;Cambridge, MA;4.3
+7;University of Washington ;Seattle, WA;4.3
+9;Carnegie Mellon University ;Pittsburgh, PA;4.2
+10;Duke University ;Durham, NC;4.1
+10;University of Pennsylvania ;Philadelphia, PA;4.1
+12;University of Michigan-Ann Arbor ;Ann Arbor, MI;4.0
+12;University of North Carolina-Chapel Hill ;Chapel Hill, NC;4.0
+12;University of Wisconsin-Madison ;Madison, WI;4.0
+15;North Carolina State University ;Raleigh, NC;3.9
+15;Texas A&M University-College Station ;College Station, TX;3.9
+15;University of California-Berkeley ;Berkeley, CA;3.9
+15;University of Michigan-Ann Arbor ;Ann Arbor, MI;3.9
+19;Iowa State University ;Ames, IA;3.8
+20;Columbia University ;New York, NY;3.7
+20;Pennsylvania State University ;University Park, PA;3.7
+20;University of Minnesota-Twin Cis ;Minneapolis, MN;3.7
+20;University of North Carolina-Chapel Hill ;Chapel Hill, NC;3.7
+24;Cornell University ;Ithaca, NY;3.6
+24;Purdue University-West Lafayette ;West Lafayette, IN;3.6
+24;University of Minnesota-Twin Cis ;Minneapolis, MN;3.6
+27;Ohio State University ;Columbus, OH;3.5
+27;University of California-Davis ;Davis, CA;3.5
+27;University of Pennsylvania (Perelman) ;Philadelphia, PA;3.5
+30;Columbia University ;New York, NY;3.4
+30;University of California-Los Angeles ;Los Angeles, CA;3.4
+30;University of California-Los Angeles ;Los Angeles, CA;3.4
+30;University of Florida ;Gainesville, FL;3.4
+34;University of Illinois-Urbana-Champaign ;Champaign, IL;3.3
+34;University of Iowa ;Iowa City, IA;3.3
+34;Yale University ;New Haven, CT;3.3
+34;Yale University (School of Public Health) ;New Haven, CT;3.3
+38;Emory University ;Atlanta, GA;3.2
+39;Florida State University ;Tallahassee, FL;3.1
+39;Rice University ;Houston, TX;3.1
+39;Rutgers, The State University of New Jersey-New Brunswick ;Piscataway, NJ;3.1
+42;Brown University (School of Public Health) ;Providence, RI;3.0
+42;Colorado State University ;Fort Collins, CO;3.0
+42;University of Connecticut ;Storrs, CT;3.0
+42;University of Iowa ;Iowa City, IA;3.0
+42;University of Rochester ;Rochester, NY;3.0
+47;Michigan State University ;East Lansing, MI;2.9
+47;University of Pittsburgh ;Pittsburgh, PA;2.9
+49;Boston University ;Boston, MA;2.8
+49;New York University (Stern) ;New York, NY;2.8
+49;Northwestern University ;Evanston, IL;2.8
+49;University of Pittsburgh ;Pittsburgh, PA;2.8
+53;George Washington University ;Washington, DC;2.7
+53;Medical College of Wisconsin ;Milwaukee, WI;2.7
+53;University of Georgia ;Athens, GA;2.7
+53;University of Illinois-Chicago (School of Public Health) ;Chicago, IL;2.7
+53;University of Missouri ;Columbia, MO;2.7
+53;University of Texas Health Science Center-Houston ;Houston, TX;2.7
+53;Virginia Tech ;Blacksburg, VA;2.7
+60;Case Western Reserve University (School of Public Health) ;Cleveland, OH;2.6
+60;Southern Methodist University ;Dallas, TX;2.6
+62;University of California-Santa Barbara ;Santa Barbara, CA;2.5
+63;Arizona State University ;Tempe, AZ;2.4
+63;Oregon State University ;Corvallis, OR;2.4
+63;University of South Carolina ;Columbia, SC;2.4
+63;University of Virginia ;Charlottesville, VA;2.4
+67;Medical University of South Carolina ;Charleston, SC;2.3
+67;Temple University (Fox) ;Philadelphia, PA;2.3
+67;University of California-Riverside ;Riverside, CA;2.3
+70;Kansas State University ;Manhattan, KS;2.2
+70;University at Albany-SUNY (School of Public Health) ;Rensselaer, NY;2.2
+70;University at Buffalo-SUNY ;Buffalo, NY;2.2
+70;University of Alabama-Birmingham ;Birmingham, AL;2.2
+70;University of Colorado-Denver ;Denver, CO;2.2
+75;Baylor University ;Waco, TX;2.1
+75;Case Western Reserve University ;Cleveland, OH;2.1
+75;University of Kentucky ;Lexington, KY;2.1
+78;University of South Carolina (Arnold School of Public Health) ;Columbia, SC;2.0
+78;Virginia Commonwealth University ;Richmond, VA;2.0

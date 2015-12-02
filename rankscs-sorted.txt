@@ -1,0 +1,100 @@
+1;Carnegie Mellon University ;Pittsburgh, PA;5.0
+1;Massachusetts Institute of Technology ;Cambridge, MA;5.0
+1;Stanford University ;Stanford, CA;5.0
+1;University of California-Berkeley ;Berkeley, CA;5.0
+5;University of Illinois-Urbana-Champaign ;Urbana, IL;4.6
+6;Cornell University ;Ithaca, NY;4.5
+6;University of Washington ;Seattle, WA;4.5
+8;Princeton University ;Princeton, NJ;4.4
+9;Georgia Institute of Technology ;Atlanta, GA;4.3
+9;University of Texas-Austin ;Austin, TX;4.3
+11;California Institute of Technology ;Pasadena, CA;4.2
+11;University of Wisconsin-Madison ;Madison, WI;4.2
+13;University of California-Los Angeles ;Los Angeles, CA;4.1
+13;University of Michigan-Ann Arbor ;Ann Arbor, MI;4.1
+15;Columbia University ;New York, NY;4.0
+15;University of California-San Diego ;La Jolla, CA;4.0
+15;University of Maryland-College Park ;College Park, MD;4.0
+18;Harvard University ;Cambridge, MA;3.9
+19;University of Pennsylvania ;Philadelphia, PA;3.8
+20;Brown University ;Providence, RI;3.7
+20;Purdue University-West Lafayette ;West Lafayette, IN;3.7
+20;Rice University ;Houston, TX;3.7
+20;University of Southern California ;Los Angeles, CA;3.7
+20;Yale University ;New Haven, CT;3.7
+25;Duke University ;Durham, NC;3.6
+25;University of Massachusetts-Amherst ;Amherst, MA;3.6
+25;University of North Carolina-Chapel Hill ;Chapel Hill, NC;3.6
+28;Johns Hopkins University ;Baltimore, MD;3.5
+29;New York University ;New York, NY;3.4
+29;Pennsylvania State University-University Park ;University Park, PA;3.4
+29;University of California-Irvine ;Irvine, CA;3.4
+29;University of Minnesota-Twin Cis ;Minneapolis, MN;3.4
+29;University of Virginia ;Charlottesville, VA;3.4
+34;Northwestern University ;Evanston, IL;3.3
+34;Ohio State University ;Columbus, OH;3.3
+34;Rutgers, The State University of New Jersey-New Brunswick ;Piscataway, NJ;3.3
+34;University of California-Davis ;Davis, CA;3.3
+34;University of California-Santa Barbara ;Santa Barbara, CA;3.3
+34;University of Chicago ;Chicago, IL;3.3
+40;Dartmouth College ;Hanover, NH;3.1
+40;Stony Brook University-SUNY ;Stony Brook, NY;3.1
+40;Texas A&M University-College Station ;College Station, TX;3.1
+40;University of Arizona ;Tucson, AZ;3.1
+40;University of Colorado-Boulder ;Boulder, CO;3.1
+40;University of Utah ;Salt Lake City, UT;3.1
+40;Virginia Tech ;Blacksburg, VA;3.1
+40;Washington University in St. Louis ;St. Louis, MO;3.1
+48;Arizona State University ;Tempe, AZ;3.0
+48;Boston University ;Boston, MA;3.0
+48;North Carolina State University ;Raleigh, NC;3.0
+48;University of Florida ;Gainesville, FL;3.0
+52;Indiana University-Bloomington ;Bloomington, IN;2.9
+52;Rensselaer Polytechnic Institute ;Troy, NY;2.9
+52;University of Pittsburgh ;Pittsburgh, PA;2.9
+52;University of Rochester ;Rochester, NY;2.9
+56;Michigan State University ;East Lansing, MI;2.8
+56;University of California-Riverside ;Riverside, CA;2.8
+56;University of California-Santa Cruz ;Santa Cruz, CA;2.8
+56;Vanderbilt University ;Nashville, TN;2.8
+60;Northeastern University ;Boston, MA;2.7
+60;University of Illinois-Chicago ;Chicago, IL;2.7
+60;University of Notre Dame ;Notre Dame, IN;2.7
+63;Iowa State University ;Ames, IA;2.6
+63;University at Buffalo-SUNY ;Buffalo, NY;2.6
+63;University of Iowa ;Iowa City, IA;2.6
+63;University of Oregon ;Eugene, OR;2.6
+67;George Mason University ;Fairfax, VA;2.5
+67;Oregon State University ;Corvallis, OR;2.5
+67;Syracuse University ;Syracuse, NY;2.5
+70;Case Western Reserve University ;Cleveland, OH;2.4
+70;College of William and Mary ;Williamsburg, VA;2.4
+70;Colorado State University ;Fort Collins, CO;2.4
+70;Naval Postgraduate School ;Monterey, CA;2.4
+70;New York University ;Brooklyn, NY;2.4
+70;Tufts University ;Medford, MA;2.4
+70;University of Delaware ;Newark, DE;2.4
+70;University of Maryland-Baltimore County ;Baltimore, MD;2.4
+70;University of Nebraska-Lincoln ;Lincoln, NE;2.4
+70;University of Tennessee-Knoxville ;Knoxville, TN;2.4
+70;University of Texas-Dallas ;Richardson, TX;2.4
+70;Washington State University ;Pullman, WA;2.4
+82;Brandeis University ;Waltham, MA;2.3
+82;Clemson University ;Clemson, SC;2.3
+82;CUNY Graduate School and University Center ;New York, NY;2.3
+82;Florida State University ;Tallahassee, FL;2.3
+82;George Washington University ;Washington, DC;2.3
+82;University of Connecticut ;Storrs, CT;2.3
+82;University of Kansas ;Lawrence, KS;2.3
+82;University of New Mexico ;Albuquerque, NM;2.3
+90;Auburn University ;Auburn, AL;2.2
+90;Brigham Young University ;Provo, UT;2.2
+90;Drexel University ;Philadelphia, PA;2.2
+90;Kansas State University ;Manhattan, KS;2.2
+90;New Jersey Institute of Technology ;Newark, NJ;2.2
+90;Oregon Health and Science University ;Beaverton, OR;2.2
+90;University of Central Florida ;Orlando, FL;2.2
+90;University of Georgia ;Athens, GA;2.2
+90;University of Kentucky ;Lexington, KY;2.2
+90;University of Texas-Arlington ;Arlington, TX;2.2
+90;Worcester Polytechnic Institute ;Worcester, MA;2.2
